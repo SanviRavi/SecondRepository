@@ -24,7 +24,9 @@ git init - initialse the empty repository
 
 git branch 'branchname' - create the branch
 
-git checkout 'branchname' - to go the branch
+git checkout 'branchname' - connect to the branch
+
+git branch -m prepod prod  -- to rename the branch names
 
 
 
