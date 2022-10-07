@@ -16,6 +16,9 @@ git commit - commit the newly added or changed files from staging area to local 
           git commit -m "add message"
 
 git push - commit changes from local repository to git repository
+           git push origin main
 
 git status - track the added/modified files in local git repository 
+
+
 
