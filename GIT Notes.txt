@@ -1,0 +1,3 @@
+First time copying from git repository to local repository.
+Git Clone is used only once, when we are connecting to the Git repository for the first time from our local repository.
+git clone https://github.com/SanviRavi/SecondRepository.git
