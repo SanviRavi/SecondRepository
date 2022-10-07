@@ -20,5 +20,6 @@ git push - commit changes from local repository to git repository
 
 git status - track the added/modified files in local git repository 
 
+git init - initialse the empty repository
 
 
