@@ -6,5 +6,5 @@ git clone https://github.com/SanviRavi/SecondRepository.git
 
 
 PULL:
-Updating the local repository
+Get the latest changes from the GIT repository to local repository.
 
