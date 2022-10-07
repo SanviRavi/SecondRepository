@@ -1,1 +1,2 @@
 Hello, welcome to Git Repository.
+Learnt GIT Clone and Pull commands.
